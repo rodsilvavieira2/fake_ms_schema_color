@@ -1,0 +1,55 @@
+{
+  "providers": {
+    "provider": {
+      "name": "mro"
+    },
+    "theme": {
+      "primary": "#AD0066",
+      "primaryDarker": "#560033",
+      "primaryDark": "#7A0048",
+      "primaryLight": "#E00084",
+      "primaryLighter": "#E6B2D1",
+      "secondary": "#0066AD",
+      "secondaryDarker": "#003961",
+      "secondaryDark": "#005794",
+      "secondaryLight": "#3284BD",
+      "secondaryLighter": "#CCE0EE",
+      "error": "#B21616",
+      "errorDark": "#A60000",
+      "errorLight": "#FC5454",
+      "errorLighter": "#FFD3D3",
+      "warning": "#EDC005",
+      "warningDark": "#edc005",
+      "warningLight": "#FDDD48",
+      "warningLighter": "#FBF2CD",
+      "info": "#0066AD",
+      "infoDark": "#005794",
+      "infoLight": "#3284BD",
+      "infoLighter": "#CCE0EE",
+      "success": "#00AD47",
+      "successDark": "#006128",
+      "successLight": "#4CC57E",
+      "successLighter": "#CCEEDA",
+      "gray6": "#797979",
+      "gray5": "#CDCDCD",
+      "gray4": "#E0E0E0",
+      "gray3": "#E4E4E3",
+      "gray2": "#EAEAEA",
+      "gray1": "#F3F3F3",
+      "black": "#0C0C0B",
+      "white": "#FFFFFF"
+    },
+    "links": [
+      {
+        "id": 1,
+        "type": "background",
+        "url": "https://firebasestorage.googleapis.com/v0/b/ts-public.appspot.com/o/mro%2Fimages%2Flogin_img.png?alt=media"
+      },
+      {
+        "id": 2,
+        "type": "logo",
+        "url": "https://firebasestorage.googleapis.com/v0/b/ts-public.appspot.com/o/mro%2Ficons%2Fmro_logo.svg?alt=media"
+      }
+    ]
+  }
+}

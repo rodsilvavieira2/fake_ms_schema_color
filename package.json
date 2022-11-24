@@ -1,0 +1,16 @@
+{
+  "name": "fake_ms_schema_color",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "email": "rodsilvavieira@gmail.com",
+    "name": "Rodrigo Silva"
+  },
+  "scripts": {
+    "start": "npx json-server --watch db.json  --routes routes.json -d 300 -p 3008"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
